@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TDDcom450/1.0.0": {
+        "runtime": {
+          "TDDcom450.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TDDcom450/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

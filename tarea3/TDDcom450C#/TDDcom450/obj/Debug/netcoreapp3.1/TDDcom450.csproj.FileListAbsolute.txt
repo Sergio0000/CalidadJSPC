@@ -1,0 +1,13 @@
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.csprojAssemblyReference.cache
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.AssemblyInfoInputs.cache
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.AssemblyInfo.cs
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.csproj.CoreCompileInputs.cache
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.exe
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.deps.json
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.runtimeconfig.json
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.runtimeconfig.dev.json
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.dll
+E:\7semestre\com450\TDDcom450\TDDcom450\bin\Debug\netcoreapp3.1\TDDcom450.pdb
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.dll
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.pdb
+E:\7semestre\com450\TDDcom450\TDDcom450\obj\Debug\netcoreapp3.1\TDDcom450.genruntimeconfig.cache
